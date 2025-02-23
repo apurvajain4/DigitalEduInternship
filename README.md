@@ -55,8 +55,5 @@ Ensure you have the following installed on your system:
 
 ## License
 This project is for educational purposes and is open-source.
-
----
-
 For any issues or improvements, feel free to contribute or contact the developer.
 
